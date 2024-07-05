@@ -15,3 +15,8 @@ y <- 20 # variable y is assigned value 20
 # like addition (+), subtraction(-), multiplication(*), division(/) etc.
 
 x * y
+
+# Relational Operators are used to test/ define a relationship
+# between two operands
+# <, >, <=, >=, ==, !=
+x<y
