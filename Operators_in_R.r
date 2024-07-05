@@ -14,3 +14,5 @@ print(x)
 # perform basic mathematical operations
 # like addition (+), subtraction(-), multiplication(*), division(/) etc.
 
+a -> x + y
+print(a)
