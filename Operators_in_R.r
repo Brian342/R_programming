@@ -19,4 +19,3 @@ x * y
 # Relational Operators are used to test/ define a relationship
 # between two operands
 # <, >, <=, >=, ==, !=
-x<y
