@@ -8,11 +8,10 @@ x = 10 # nolint: assignment_linter.
 y <- 20 # variable y is assigned value 20
 30 -> z # nolint.  assined 30 to variable z
 
-print(x)
+# print(x)
 
 # Arithmetic operators are used to
 # perform basic mathematical operations
 # like addition (+), subtraction(-), multiplication(*), division(/) etc.
 
-a -> x + y
-print(a)
+x * y
