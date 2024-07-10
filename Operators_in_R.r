@@ -14,8 +14,14 @@ y <- 20 # variable y is assigned value 20
 # perform basic mathematical operations
 # like addition (+), subtraction(-), multiplication(*), division(/) etc.
 
-x * y
+# x * y
 
 # Relational Operators are used to test/ define a relationship
 # between two operands
 # <, >, <=, >=, ==, !=
+# x < y 
+
+# Logical Operators are used to make a decision 
+# on the basic of a condition
+# & and operator
+# | or operator
