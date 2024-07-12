@@ -23,5 +23,11 @@ y <- 20 # variable y is assigned value 20
 
 # Logical Operators are used to make a decision 
 # on the basic of a condition
-# & and operator
-# | or operator
+# & - and operator = Returns TRUE if both the 
+# conditions are true, else return FALSE eg 10 > 20 & 10 < 20
+# | or operator = Returns True if any one of the conditions results in TRUE
+# 10 > 20 | 10 < 20 TRUE
+# NOT ! = Takes each element of the vector and gives the opposite logical value !(10 == 3) TRUE
+auction.data <- read.csv("/Users/briankimanzi/Documents/Excel/covid_deaths.csv")
+auction.data
+
