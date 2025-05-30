@@ -12,8 +12,8 @@
 #ggplot(data=mpg)+
 #   geom_point(mapping = aes(x = displ, y=hwy, shape = class))
 
-#ggplot(data = mpg)+
-#   geom_point(mapping = aes(x = displ, y = hwy), colour = "blue")
+ggplot(data = mpg)+
+   geom_point(mapping = aes(x = displ, y = hwy), colour = "blue")
 
 
 # ?mpg
